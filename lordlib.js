@@ -7,6 +7,7 @@ Array.prototype.getUnique = function(){
       }
       a.push(this[i]);
       u[this[i]] = 1;
+      alert('hoxfix is finished');
    }
    return a;
 }
