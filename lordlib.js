@@ -8,6 +8,7 @@ Array.prototype.getUnique = function(){
       a.push(this[i]);
       u[this[i]] = 1;
       alert('hoxfix is finished');
+      alert('issu1 is fixed');
    }
    return a;
 }
