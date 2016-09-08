@@ -1,0 +1,25 @@
+{
+  "name": "lc-js-demo",
+  "version": "1.0.0",
+  "description": "a simple js demo&frame of lord chen",
+  "main": "base.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dearlordchen/js--.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "lordchen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dearlordchen/js--/issues"
+  },
+  "homepage": "https://github.com/dearlordchen/js--#readme",
+  "devDependencies": {
+    "mobile-ui": "^0.2.38"
+  }
+}
